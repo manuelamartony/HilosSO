@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="EJ6" />
+        <module name="EJ5" />
+        <module name="EJ8" />
+        <module name="EJ7" />
+        <module name="EJ10" />
+        <module name="EJ9" />
+        <module name="EJ2" />
+        <module name="EJ1" />
+        <module name="EJ4" />
+        <module name="EJ3" />
+      </profile>
+    </annotationProcessing>
+  </component>
+</project>
